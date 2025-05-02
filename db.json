@@ -1,0 +1,9 @@
+{
+  "debts": [
+    {
+      "id": 1,
+      "name": "Bakari",
+      "amount": 1000
+    }
+  ]
+}
