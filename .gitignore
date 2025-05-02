@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# JSON Server data file (optional, if you don't want to commit test data)
+db.json
+
+# logs
+*.log
+
+# OS files
+.DS_Store
